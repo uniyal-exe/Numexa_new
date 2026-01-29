@@ -189,7 +189,7 @@ function renderHome() {
         <h2>Get Started</h2>
         <p class="muted">Open the full playground or invite the bot to your server.</p>
         <a class="cta invite" href="#playground" onclick="loadView('playground')">Open Playground</a>
-        <a class="cta invite" href="#invite" style="margin-left:12px">Invite Bot</a>
+        <a class="cta invite" href="https://discord.com/oauth2/authorize?client_id=1460289617264775333&permissions=5629501681765440&scope=bot+applications.commands" style="margin-left:12px">Invite Bot</a>
       </div>
     </section>
   `;
